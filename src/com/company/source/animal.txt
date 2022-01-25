@@ -1,0 +1,5 @@
+Lord,caine,3,pitbul,Andrei
+Pisi,pisica,4,alb
+mitzi,pisica,6,crem
+Lord2,caine,3,pitbul,Andrei2
+
